@@ -1,0 +1,905 @@
+14/5/2020 
+Pedido 4500171103 
+
+
+
+Nº DE PEDIDO 4500171103 
+
+
+Emitido el jueves, 14 mayo, 2020 CDT 
+Creado el jueves, 14 mayo, 2020 CDT por Alfonso Camacho Carranza 
+
+
+IMPORTE TOTAL
+
+PROVEEDOR: 
+
+
+Huawei Technologies de Mexico SA de $512,954.71USD 
+AV SANTA FE 
+05348 SANTA FE CUAJIMALPA, CUAJ, CMX 
+México 
+Teléfono: +52 85828600 
+
+
+SHIPTO(PLANT): 
+FACTURAR A: 
+
+
+TOTAL PLAY TELECOMUNICACIONES TOTAL PLAY TELECOMUNICACIONES 
+Periferico Sur 4119 
+Periferico Sur 4119 
+14141 Tlalpan, D.F., DF 
+14141 Tlalpan, D.F., DF 
+México 
+México 
+
+
+ENTREGAR A: 
+
+
+CHRISTIAN IVAN DOMINGUEZ 
+Cuenta de CG: 
+Nombre de contabilidad general: Equipo de Comunicacion 
+ID: 1121300001 
+Centro de costes: 
+Nombre del centro de costes: INGENIERIA CORE IP 
+ID: 2131000804 
+Clase de activo: 
+Proyecto/EAP (Estructura Analítica de Proyecto): 
+Número de activo: 
+ID: 6000052 
+Nombre: ACTIVO DUMMY-TOTAL PLAY TELECOMUNICACIONES SA DE CV 
+Folio Presupuestal: 
+
+
+Título: RedCe - CRECIMIENTO GTAC L3-GTAC Routers 
+Compra Arrendadora: No 
+
+
+IsFromCatalog: Sí 
+Solicitante: Alfonso Camacho Carranza 
+Nº solicitud de compra: PR124194 
+incoTerm: 
+Inicio de Garantia: 1 - Factura 
+
+
+Dias de Garantia: 
+
+
+ID: 90 
+Nombre: Garantia de 3 Meses 
+Dias de Garantia: 90 
+Codigo Retenciones: -
+Codigo Retenciones: 
+Monto Retenciones: $0.00USD 
+Entrega Almacen en: 
+
+
+DETALLES DE ARTÍCULO EN LÍNEA 
+(10 ARTÍCULOS EN LÍNEA ) 
+
+
+Nº 
+DESCRIPCIÓN 
+NÚMERO DE 
+CTD. 
+FECHA 
+PRECIO POR 
+DESCUENTO 
+IMPORTE NETO 
+CARGOS 
+IMPUESTOS 
+IMPORTE 
+
+
+PIEZA 
+PARA LA 
+UNIDAD 
+QUE SE 
+REQUIERE 
+
+
+1 
+Hardware 
+CR8P02BASDC2 
+21 
+sábado, 7 
+$16,165.22USD 
+$0.00USD 
+$339,469.62USD 
+$54,315.14USD 
+$393,784.76USD 
+cr8p02basdc2 
+Pieza 
+noviembre, 
+
+
+https://s1.ariba.com/Buyer/render/H9SUOQ6N49ZM 
+1/6 
+
+
+
+14/5/2020 
+Pedido 4500171103 
+
+
+2020 CST 
+
+
+Descripción completa: NetEngine 8000 M14 Basic Configuration (Includes NetEngine 8000 M14 
+
+
+Chassis,2*IPU-1T2, 2*DC Power,without Software Charge and Document) 
+
+
+CÓDIGO DE IMPUESTO 
+IMPUESTOS 
+TIPO 
+IMPOSITIVO 
+IMPORTE DE 
+IMPUESTOS 
+IMPORTE 
+IVA Acreditable 
+16.0% 
+$54,315.14USD 
+AI 
+16% pendiente 
+$54,315.14USD 
+de pago 
+
+
+Nº de línea en la solicitud de compra: 1 
+Impuestos: $54,315.14USD 
+
+
+SKU: 
+
+
+ID: 1091005077658 
+Nombre: Hardware cr8p02basdc2 
+Commodity Code: 
+
+
+Código fiscal: 
+
+
+Terminos de Pago: ZK26-Pago Inmediato 
+
+
+Nº 
+DESCRIPCIÓN 
+NÚMERO 
+CTD. 
+FECHA 
+PRECIO 
+DESCUENTO 
+IMPORTE 
+CARGOS 
+IMPUESTOS 
+IMPORTE 
+
+
+DE PIEZA 
+PARA LA 
+POR 
+NETO 
+QUE SE 
+UNIDAD 
+REQUIERE 
+
+
+Optical Transceiver 
+OSX001002 
+252 
+sábado, 7 
+$205.66USD 
+$0.00USD 
+$51,826.32USD 
+$8,292.21USD 
+$60,118.53USD 
+OSX001002 
+Pieza 
+noviembre, 
+2020 CST 
+
+
+Descripción completa: Optical Transceiver(SFP+,1310nm,10Gb/s,-8.2~0.5dBm,-12.6dBm,LC,SM,10km) 
+
+
+CÓDIGO DE IMPUESTO 
+IMPUESTOS 
+TIPO 
+IMPOSITIVO 
+IMPORTE DE 
+IMPUESTOS 
+IMPORTE 
+IVA Acreditable 
+16.0% 
+$8,292.21USD 
+AI 
+16% pendiente 
+$8,292.21USD 
+de pago 
+
+
+Nº de línea en la solicitud de compra: 2 
+Impuestos: $8,292.21USD 
+
+
+SKU: 
+
+
+ID: 1091005069953 
+Nombre: Optical Transceiver OSX001002 
+Commodity Code: 
+
+
+Código fiscal: 
+
+
+Terminos de Pago: ZK26-Pago Inmediato 
+
+
+Nº 
+DESCRIPCIÓN 
+NÚMERO DE 
+CTD. 
+FECHA 
+PRECIO 
+DESCUENTO 
+IMPORTE 
+CARGOS 
+IMPUESTOS 
+IMPORTE 
+
+
+PIEZA 
+PARA LA 
+POR 
+NETO 
+QUE SE 
+UNIDAD 
+REQUIERE 
+
+
+Software cr8s00bs8cc0 
+CR8S00BS8CC0 
+21 
+sábado, 7 
+$243.00USD 
+$0.00USD 
+$5,103.00USD 
+$816.48USD 
+$5,919.48USD 
+Pieza 
+noviembre, 
+2020 CST 
+
+
+Descripción completa: NetEngine 8000 M14 Base SW,VRP8,V800R012 
+
+
+CÓDIGO DE IMPUESTO 
+IMPUESTOS 
+TIPO 
+IMPOSITIVO 
+IMPORTE DE 
+IMPUESTOS 
+IMPORTE 
+IVA Acreditable 
+16.0% 
+$816.48USD 
+AI 
+16% pendiente 
+$816.48USD 
+de pago 
+
+
+Nº de línea en la solicitud de compra: 3 
+Impuestos: $816.48USD 
+
+
+SKU: 
+
+
+https://s1.ariba.com/Buyer/render/H9SUOQ6N49ZM 
+
+
+
+14/5/2020 
+Pedido 4500171103 
+
+
+ID: 1091005077520 
+Nombre: Software cr8s00bs8cc0 
+Commodity Code: 
+
+
+Código fiscal: 
+
+
+Terminos de Pago: ZK26-Pago Inmediato 
+
+
+Nº 
+DESCRIPCIÓN 
+NÚMERO DE 
+CTD. 
+FECHA 
+PRECIO 
+DESCUENTO 
+IMPORTE 
+CARGOS 
+IMPUESTOS 
+IMPORTE 
+
+
+PIEZA 
+PARA LA 
+POR 
+NETO 
+QUE SE 
+UNIDAD 
+REQUIERE 
+
+
+Software cr8s00cragc4 
+CR8S00CRAGC4 
+630 
+sábado, 7 
+$30.14USD 
+$0.00USD 
+$18,988.20USD 
+$3,038.11USD 
+$22,026.31USD 
+Pieza 
+noviembre, 
+2020 CST 
+
+
+Descripción completa: NetEngine 8000 M Series Core&Aggregation Scenario Port Function License(per 10GE) 
+
+
+CÓDIGO DE IMPUESTO 
+IMPUESTOS 
+TIPO 
+IMPOSITIVO 
+IMPORTE DE 
+IMPUESTOS 
+IMPORTE 
+IVA Acreditable 
+16.0% 
+$3,038.11USD 
+AI 
+16% pendiente 
+$3,038.11USD 
+de pago 
+
+
+Nº de línea en la solicitud de compra: 4 
+Impuestos: $3,038.11USD 
+
+
+SKU: 
+
+
+ID: 1091005077524 
+Nombre: Software cr8s00cragc4 
+Commodity Code: 
+
+
+Código fiscal: 
+
+
+Terminos de Pago: ZK26-Pago Inmediato 
+
+
+Nº 
+DESCRIPCIÓN 
+NÚMERO DE 
+CTD. 
+FECHA 
+PRECIO 
+DESCUENTO 
+IMPORTE 
+CARGOS 
+IMPUESTOS 
+IMPORTE 
+
+
+PIEZA 
+PARA LA 
+POR 
+NETO 
+QUE SE 
+UNIDAD 
+REQUIERE 
+
+
+Software cr8s00l3vpc4 
+CR8S00L3VPC4 
+630 
+sábado, 7 
+$30.14USD 
+$0.00USD 
+$18,988.20USD 
+$3,038.11USD 
+$22,026.31USD 
+Pieza 
+noviembre, 
+2020 CST 
+
+
+Descripción completa: NetEngine 8000 M Series L3VPN Port Function License(per 10GE) 
+
+
+CÓDIGO DE IMPUESTO 
+IMPUESTOS 
+TIPO 
+IMPOSITIVO 
+IMPORTE DE 
+IMPUESTOS 
+IMPORTE 
+IVA Acreditable 
+16.0% 
+$3,038.11USD 
+AI 
+16% pendiente 
+$3,038.11USD 
+de pago 
+
+
+Nº de línea en la solicitud de compra: 5 
+Impuestos: $3,038.11USD 
+
+
+SKU: 
+
+
+ID: 1091005077526 
+Nombre: Software cr8s00l3vpc4 
+Commodity Code: 
+
+
+Código fiscal: 
+
+
+Terminos de Pago: ZK26-Pago Inmediato 
+
+
+Nº 
+DESCRIPCIÓN 
+NÚMERO 
+CTD. 
+DE PIEZA 
+6 
+Installation material 
+P420 
+p10mm^2bluelszh 
+10mm^2Servicio 
+FECHA PARA 
+LA QUE SE 
+REQUIERE 
+sábado, 7 
+noviembre, 
+2020 CST 
+PRECIO 
+POR 
+UNIDAD 
+$1.90USD 
+DESCUENTO 
+IMPORTE 
+NETO 
+$0.00USD 
+$798.00USD 
+CARGOS 
+IMPUESTOS 
+IMPORTE 
+$127.68USD 
+$925.68USD 
+https://s1.ariba.com/Buyer/render/H9SUOQ6N49ZM 
+3/6 
+
+
+
+14/5/2020 
+Pedido 4500171103 
+
+
+Blue-
+LSZH 
+
+
+Descripción completa: Power Cable,450V/750V,H07Z-K UL3386,10mm^2,Blue,80A,LSZH Cable,VDE,UL 
+(Unit:meter) 
+
+
+CÓDIGO DE IMPUESTO 
+IMPUESTOS 
+TIPO 
+IMPOSITIVO 
+IMPORTE DE 
+IMPUESTOS 
+IMPORTE 
+IVA Acreditable 
+16.0% 
+$127.68USD 
+AI 
+16% pendiente 
+$127.68USD 
+de pago 
+
+
+Nº de línea en la solicitud de compra: 6 
+Impuestos: $127.68USD 
+
+
+SKU: 
+
+
+ID: 2091022077527 
+Nombre: Installation material p10mm^2bluelszh 
+Commodity Code: 
+
+
+Código fiscal: 
+
+
+Terminos de Pago: ZK26-Pago Inmediato 
+
+
+Nº 
+DESCRIPCIÓN 
+NÚMERO 
+CTD. 
+FECHA PARA 
+PRECIO 
+DESCUENTO 
+IMPORTE 
+CARGOS 
+IMPUESTOS 
+IMPORTE 
+DE PIEZA 
+LA QUE SE 
+POR 
+NETO 
+REQUIERE 
+UNIDAD 
+
+
+7 
+Installation material 
+P-420 
+sábado, 7 
+$1.90USD 
+$0.00USD 
+$798.00USD 
+$127.68USD 
+$925.68USD 
+
+
+p10mm^2blacklsz 
+10mm^2-Servicio 
+noviembre, 
+Black-2020 CST 
+LSZH 
+
+
+Descripción completa: Power Cable,450V/750V,H07Z-K UL3386,10mm^2,Black,80A,LSZH Cable,VDE,UL 
+(Unit:meter) 
+
+
+CÓDIGO DE IMPUESTO 
+IMPUESTOS 
+TIPO 
+IMPOSITIVO 
+IMPORTE DE 
+IMPUESTOS 
+IMPORTE 
+IVA Acreditable 
+16.0% 
+$127.68USD 
+AI 
+16% pendiente 
+$127.68USD 
+de pago 
+
+
+Nº de línea en la solicitud de compra: 7 
+Impuestos: $127.68USD 
+
+
+SKU: 
+
+
+ID: 2091022077528 
+Nombre: Installation material p10mm^2blacklsz 
+Commodity Code: 
+
+
+Código fiscal: 
+
+
+Terminos de Pago: ZK26-Pago Inmediato 
+
+
+Nº 
+DESCRIPCIÓN 
+NÚMERO 
+CTD. 
+FECHA 
+PRECIO 
+DESCUENTO 
+IMPORTE 
+CARGOS 
+IMPUESTOS 
+IMPORTE 
+
+
+DE PIEZA 
+PARA LA 
+POR 
+NETO 
+QUE SE 
+UNIDAD 
+REQUIERE 
+
+
+Installation material 
+CPGN01001 
+210 
+sábado, 7 
+$1.90USD 
+$0.00USD 
+$399.00USD 
+$63.84USD 
+$462.84USD 
+cpgn01001 
+Servicio 
+noviembre, 
+2020 CST 
+
+
+Descripción completa: Power Cable,450V/750V,H07Z-K UL3386,10mm^2,Yellow/Green,80A,LSZH Cable,VDE,UL 
+(Unit:meter) 
+
+
+CÓDIGO DE IMPUESTO 
+IMPUESTOS 
+TIPO 
+IMPOSITIVO 
+IMPORTE DE 
+IMPUESTOS 
+IMPORTE 
+IVA Acreditable 
+16.0% 
+$63.84USD 
+AI 
+16% pendiente 
+$63.84USD 
+de pago 
+
+
+https://s1.ariba.com/Buyer/render/H9SUOQ6N49ZM 
+
+
+
+14/5/2020 
+Pedido 4500171103 
+
+
+Nº de línea en la solicitud de compra: 8 
+Impuestos: $63.84USD 
+
+
+SKU: 
+
+
+ID: 2091022077529 
+Nombre: Installation material cpgn01001 
+Commodity Code: 
+
+
+Código fiscal: 
+
+
+Terminos de Pago: ZK26-Pago Inmediato 
+
+
+Nº 
+DESCRIPCIÓN 
+NÚMERO DE 
+CTD. 
+FECHA 
+PRECIO POR 
+DESCUENTO 
+IMPORTE 
+CARGOS 
+IMPUESTOS 
+IMPORTE 
+
+
+PIEZA 
+PARA LA 
+UNIDAD 
+NETO 
+QUE SE 
+REQUIERE 
+
+
+Software nsssipmger19 
+NSSSIPMGER19 
+1 
+sábado, 7 
+$4,860.00USD 
+$0.00USD 
+$4,860.00USD 
+$777.60USD 
+$5,637.60USD 
+Pieza 
+noviembre, 
+2020 CST 
+
+
+Descripción completa: Basic Function Package for IP NE Management (per 50 equivalent NEs), Perpetual License 
+
+
+CÓDIGO DE IMPUESTO 
+IMPUESTOS 
+TIPO 
+IMPOSITIVO 
+IMPORTE DE 
+IMPUESTOS 
+IMPORTE 
+IVA Acreditable 
+16.0% 
+$777.60USD 
+AI 
+16% pendiente 
+$777.60USD 
+de pago 
+
+
+Nº de línea en la solicitud de compra: 9 
+Impuestos: $777.60USD 
+
+
+SKU: 
+
+
+ID: 1091005077530 
+Nombre: Software nsssipmger19 
+Commodity Code: 
+
+
+Código fiscal: 
+
+
+Terminos de Pago: ZK26-Pago Inmediato 
+
+
+Nº 
+DESCRIPCIÓN 
+NÚMERO DE 
+CTD. 
+FECHA 
+PRECIO 
+DESCUENTO 
+IMPORTE 
+CARGOS 
+IMPUESTOS 
+IMPORTE 
+
+
+PIEZA 
+PARA LA 
+POR 
+NETO 
+QUE SE 
+UNIDAD 
+REQUIERE 
+
+
+10 
+Ncesipmrss19 
+NCESIPMRSS19 
+1 
+sábado, 7 
+$972.00USD 
+$0.00USD 
+$972.00USD 
+$155.52USD 
+$1,127.52USD 
+Pieza 
+noviembre, 
+2020 CST 
+
+
+Descripción completa: Basic Function Package for IP NE Management (per 50 equivalent NEs), 1 Year Subscription 
+and Support 
+
+
+CÓDIGO DE IMPUESTO 
+IMPUESTOS 
+TIPO 
+IMPOSITIVO 
+IMPORTE DE 
+IMPUESTOS 
+IMPORTE 
+IVA Acreditable 
+16.0% 
+$155.52USD 
+AI 
+16% pendiente 
+$155.52USD 
+de pago 
+
+
+Nº de línea en la solicitud de compra: 10 
+Impuestos: $155.52USD 
+
+
+SKU: 
+
+
+ID: 1091005077531 
+Nombre: Ncesipmrss19 
+Commodity Code: 
+
+
+Código fiscal: 
+
+
+Terminos de Pago: ZK26-Pago Inmediato 
+
+
+IMPORTE TOTAL 
+
+
+$512,954.71USD 
+
+
+https://s1.ariba.com/Buyer/render/H9SUOQ6N49ZM 
+
+
+
+14/5/2020 
+Pedido 4500171103 
+
+
+COMENTARIOS 
+
+
+
+Alfonso Camacho Carranza, 13/05/2020: 
+Se requiere para el ancho de la banda de LD para los 41 sitios a nivel nacional ya que se encuentra en un 90% de su ocupación lo que provocara lentitud en 
+el servicio de internet y pixelización de video 
+
+VARIOS SITIOS 
+
+ADICIONAL: 
+
+
+• 1 board LPUF 1T 8x100G QSFP28 ports, 8 ports enabled 
+• 5 Transceivers QSFP28 100G @40Km 
+• Installation Service 21 NE8000 + CX Version Upgrade V5 to V8 
+• 2 TaiShan200 ALL-IN-ONE(2280,Huawei OS,Security Hardening,JDK),2*(Kunpeng 920,48 Core@2.6GHz),12*32G Memory,2*3.84TB(2.5") SATA 
+SSD Harddisk,8*10GE,4*GE,2*1200WDC 
+• 1 USRE26(RH2288H V3,2*E5-2680v4,8*32G,12*480GB LE SSD(2.5")+2*600GB(2.5"),4*10GE,2*8Gb FC,4*GE,AC) (Alfonso Camacho Carranza, 
+miércoles, 13 mayo, 2020 CDT) 
+TÉRMINOS Y CONDICIONES DE LA COMPRA 
+
+
+Mediante la entrega o prestacion de los bienes o servicios objeto de este pedido, el Proveedor manifiesta su consentimiento al obligarse y aceptar: (i) Llevar a cabo las gestiones necesariaspara obtener, a traves de los mecanismos y personas autorizadas por el Cliente, el Registro de Entrada de Almacen(REA) correspondiente a los bienes o servicios objeto de este pedido, el 
+mismo dia en que entregue dichos bienes al Cliente􀳦o concluya la prestacion de los servicios. En caso contrario, el Proveedor reconoce expresamente que el Cliente no contara con evidencia 
+de que los bienes o los servicios fueron efectivamente entregados o prestados y por lo tanto no podra realizar pago alguno en favor del Proveedor, y; (ii) Entregara􀳦fisicamente o emitir en 
+favor del Cliente a traves del sistema electronico de facturacion denominado INTERFACTURA, la(s) factura(s) correspondiente(s) a los bienes o servicios que􀳦efectivamente entregue o preste 
+a satisfaccion del Cliente, dentro de los 30 (treinta) dias naturales siguientes a la entrega de dichos bienes o la conclusion de la prestacion de los servicios􀳦objeto de este pedido, en caso 
+contrario, el Proveedor expresamente renuncia a su derecho de cobro y condona al Cliente la obligacion de pago de cualquier cantidad adeudada en favor􀳦del proveedor por la compra oprestacion de los bienes o servicios cuya factura no haya sido entregada fisicamente o emitida electronicamente. 
+
+
+https://s1.ariba.com/Buyer/render/H9SUOQ6N49ZM 
+
+
+

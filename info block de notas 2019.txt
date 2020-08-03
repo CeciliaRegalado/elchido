@@ -1,0 +1,58 @@
+
+
+revisar entradas viejas de Totalplay
+43223100 CLAVE HARDWARE
+43232600 Software especifico
+81161700 servicios
+26121607 Cable fibra
+43223100 comp y equipo TP
+55121600 etiquetas
+E48 SERVICIOS
+H87 PIEZAS
+
+KMT   26121607
+E48    81161700
+31151505 cable acero
+
+
+l  Interfactura
+
+https://www.interfactura.com/Index.aspx
+RI:  0510293 
+Usuario: EstibalizCCFM 
+Contrasena: huawei05
+
+Ditto
+User: tomas.xiang@huawei.com
+Pass:  Huawei2018			
+
+
+6363180162371502
+717474
+ceci201a*
+TMHW2704
+l  Adenda
+https://cloud.vde-suite.com/addenda/
+User: VDE_0F27
+Pass: BC9E4E
+
+l  Complementos de pago
+
+http://200.38.122.118/WebValidadorFactura/faces/upload.xhtml
+
+Soporte Interfactura
+facturacionelectronicaGS@elektra.com.mx
+Nombre: Huawei Technologies Engineering de Mexico SA de CV
+N° de Proveedor: 9002350
+Razón Social: HTE1509047S0
+RI Asignado: 510293
+Segunda fase de TP, hay un pedido para puro levantamiento
+Alejandro y humberto tiene que dar el OK
+
+
+TIPO DE PROOVEDOR 400
+
+
+ 
+???/account	??? system name	???/email	???? email address	password	   
+Totalplay	pmail_HWMXtotalplay	HWMexico_Totalplay	hwmx.totalplay@huawei.com	BT6e-TeD	 
